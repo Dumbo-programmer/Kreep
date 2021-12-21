@@ -1,1 +1,2 @@
-Kreep is an interpreter programming language I created as a project based on C
+Kreep is an interpreter programming language 
+ps it sucks
